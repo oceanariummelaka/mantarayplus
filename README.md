@@ -1,2 +1,2 @@
 # mantarayplus
-For Ammonite XR not supporting Browser
+For Manta Ray XR not supporting Browser
